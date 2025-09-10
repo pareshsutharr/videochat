@@ -58,7 +58,7 @@ Leave the stream anytime
 
 📸 Screenshot
 ## 📸 Screenshot
-![Host Audience Screenshot](./videosdk.jpg)
+![Host Audience Screenshot](./videosdk1.jpg)
 ## 📸 Screenshot
 ![Interactive Screenshot](./videosdk2.jpg)
 ![Interactive Screenshot](./videosdk3.jpg)
