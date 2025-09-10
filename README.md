@@ -1,71 +1,71 @@
-# Getting Started with Create React App
+# VideoSDK Coding Examples 🎥
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains **two standalone coding examples** showcasing different features of **VideoSDK**.  
+These examples are designed to be simple, easy to run, and helpful for developers to quickly get started with integrating VideoSDK into their applications.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Examples Overview
 
-### `npm start`
+| Example | Features Demonstrated |
+|---------|------------------------|
+| **Host & Audience Live Stream** | Create/Join as Host, Join as Audience, Stream ID, Mic/Camera toggle, Leave stream |
+| **Interactive Live Stream** | Copy/Share Stream ID, Dynamic participant count, Join via shared Stream ID |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Getting Started
 
-### `npm test`
+Follow these steps to run the examples locally:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. Clone this repository
+```bash
+git clone https://github.com/your-username/videosdk-examples.git
+cd videosdk-examples
+```
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3. Setup Environment Variables
+```bash
+REACT_APP_VIDEOSDK_API_KEY=your_api_key_here
+```
 
-### `npm run eject`
+### 4. Run the code
+```bash
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📖 Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Join as Host or Audience
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Enter and use Stream ID
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Toggle Mic and Camera
 
-## Learn More
+Leave the stream anytime
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📸 Screenshot
+## 📸 Screenshot
+![Host Audience Screenshot](./videosdk.jpeg)
+## 📸 Screenshot
+![Interactive Screenshot](./videosdk2.jpg)
+![Interactive Screenshot](./videosdk3.jpg)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📚 Resources
 
-### Analyzing the Bundle Size
+- [📘 VideoSDK Documentation](https://docs.videosdk.live/)  
+- [🛠️ VideoSDK Dashboard](https://app.videosdk.live/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# videochat
